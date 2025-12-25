@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Cascadi Mesh",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "future": {
@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://cascadiameshcore.github.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "cascadiameshcore",
+  "projectName": "",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
